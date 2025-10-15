@@ -88,4 +88,4 @@ if st.session_state.gross_result or st.session_state.net_result:
                 unsafe_allow_html=True
             )
 
-st.markdown("<br><hr><small style='color:#888;'>Internal use only — Gross-Up & Tax Deduction v2.2</small>", unsafe_allow_html=True)
+st.markdown("<br><hr><small style='color:#888;'>Gross-Up & Tax Deduction v2.2</small>", unsafe_allow_html=True)
